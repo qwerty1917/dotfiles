@@ -53,8 +53,8 @@ brew cask cleanup
 
 ln -nfs $DOTFILES/.gitconfig $HOME/.gitconfig
 git config --global core.excludesfile $DOTFILES/.gitignore_global
-git config --global user.name "foo"
-git config --global user.email "foo@bar.com"
+git config --global user.name "qwerty1917"
+git config --global user.email "hmp0077@gmail.com"
 
 #-------------------------------------------------------------------------------
 # Make ZSH the default shell environment
